@@ -42,17 +42,17 @@ const renderPlayerBoard = (board, table) => {
         const presentShip = board.getShip(content);
         if (presentShip.isVertical()) {
           if (presentShip.getShipArray()[i - presentShip.getStartingXLocation()] === 0) {
-            cell.classList.add('bg-primary');
+            cell.classList.add('bg-secondary');
             cell.textContent = '';
           } else {
-            cell.classList.add('bg-primary', 'text-black', 'font-weight-bold');
+            cell.classList.add('bg-secondary', 'text-black', 'font-weight-bold');
             cell.innerHTML = '&#10042;';
           }
         } else if (presentShip.getShipArray()[j - presentShip.getStartingYLocation()] === 0) {
-          cell.classList.add('bg-primary');
+          cell.classList.add('bg-secondary');
           cell.textContent = '';
         } else {
-          cell.classList.add('bg-primary', 'text-black', 'font-weight-bold');
+          cell.classList.add('bg-secondary', 'text-black', 'font-weight-bold');
           cell.innerHTML = '&#10042;';
         }
       }
@@ -76,13 +76,13 @@ const renderComputerBoard = (board, table) => {
           if (presentShip.getShipArray()[i - presentShip.getStartingXLocation()] === 0) {
             cell.textContent = '';
           } else {
-            cell.classList.add('bg-primary', 'text-black', 'font-weight-bold');
+            cell.classList.add('bg-secondary', 'text-black', 'font-weight-bold');
             cell.innerHTML = '&#10042;';
           }
         } else if (presentShip.getShipArray()[j - presentShip.getStartingYLocation()] === 0) {
           cell.textContent = '';
         } else {
-          cell.classList.add('bg-primary', 'text-black', 'font-weight-bold');
+          cell.classList.add('bg-secondary', 'text-black', 'font-weight-bold');
           cell.innerHTML = '&#10042;';
         }
       }
