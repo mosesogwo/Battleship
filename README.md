@@ -16,13 +16,13 @@ The player and computer take turns to attack each other by hitting locations on 
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/DanielMitiku/battleship/126ea723ff76f7db65f0803178434633c6c7bf3c/dist/index.html)
+[Live Demo Link](https://rawcdn.githack.com/mosesogwo/Battleship/7d43ca01f344dbe726908d06e60669781d9e55ad/dist/index.html)
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
- - Clone this repository to your local machine using ```git clone git@github.com:DanielMitiku/battleship.git```.
+ - Clone this repository to your local machine using ```git clone git@github.com:mosesogwo/Battleship.git```.
 
  - Run ```cd battleship``` to move into the app directory.
 
