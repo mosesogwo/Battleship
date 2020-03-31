@@ -25,9 +25,18 @@ To get a local copy up and running follow these simple example steps.
  - Clone this repository to your local machine using ```git clone git@github.com:mosesogwo/Battleship.git```.
 
  - Run ```cd battleship``` to move into the app directory.
+ 
+ - Run ```npm install``` to install all dependencies.
 
  - Open the ```dist/index.html``` file in your browser.
 
+
+## Testing
+
+To run tests in this project, follow the following steps.
+- From the project directory, run `npm install` from the terminal to ensure that all dependencies are installed.
+
+- Run `npm run test` to run all tests
 
 ## Authors
 
