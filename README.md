@@ -31,10 +31,10 @@ To get a local copy up and running follow these simple example steps.
  - Open the ```dist/index.html``` file in your browser.
 
 
-## Testing
+### Testing
 
-To run tests in this project, follow the following steps.
-- From the project directory, run `npm install` from the terminal to ensure that all dependencies are installed.
+To run the tests in this project, follow these steps.
+- From the project directory, run `npm install` to ensure that all dependencies are installed.
 
 - Run `npm run test` to run all tests
 
