@@ -42,11 +42,16 @@ To run the tests in this project, follow these steps.
 
 👤 **Moses Ogwo**
 
+- Email: mosesogwo@gmail.com
 - Github: [@mosesogwo](https://github.com/mosesogwo)
+- LinkedIn: [Moses Ogwo](https://www.linkedin.com/in/mosesogwo/)
+- Portfolio: [Moses Ogwo](https://mosesogwo.github.io/My-Portfolio/)
 
 👤 **Daniel Mitiku**
 
+- Email: wedanielmitiku@gmail.com
 - Github: [@danielmitiku](https://github.com/DanielMitiku)
+- LinkedIn: [Daniel Mitiku](https://www.linkedin.com/in/daniel-mitiku-aa9719151/)
 
 
 
